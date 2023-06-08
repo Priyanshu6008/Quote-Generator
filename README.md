@@ -37,7 +37,7 @@ You can customize the appearance of the Quote Generator by modifying the `style.
 
 - Font Awesome v6.4.0: [https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css)
 - Roboto font from Google Fonts: [https://fonts.googleapis.com/css2?family=Roboto&display=swap](https://fonts.googleapis.com/css2?family=Roboto&display=swap)
-- API for Quotes : ["https://type.fit/api/quotes"]
+- API for Quotes : [https://type.fit/api/quotes]
 
 Please make sure you have an internet connection to load these dependencies.
 
